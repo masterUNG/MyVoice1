@@ -28,14 +28,15 @@ public class ServiceFragment extends Fragment{
         Bundle bundle = new Bundle();
         bundle.putInt("Gender", intGender);
         serviceFragment.setArguments(bundle);
-
         return serviceFragment;
-    }
 
+    }   // ServiceFragment
 
     @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater,
+                             @Nullable ViewGroup container,
+                             @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_service, container, false);
         return view;
     }   // onCreateView
