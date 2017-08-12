@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Voice</string>
+    <string name="label1">ความต้องการ</string>
+    <string name="label2">หัวข้อที่ 2</string>
+    <string name="label3">หัวข้อที่ 3</string>
+    <string name="label4">หัวข้อที่ 4</string>
+    <string name="label5">หัวข้อที่ 5</string>
+
+    <string name="label6">ความต้องการ</string>
+    <string name="label7">รู้สึก</string>
+    <string name="label8">คำถาม</string>
+    <string name="label9">เร่งดวน</string>
+
+    <string name="title1">หน้าหลัก</string>
+    <string name="choose_gender">เลือกเพศ</string>
+
+
+</resources>
